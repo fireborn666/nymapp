@@ -5,12 +5,7 @@
 int main(void)
 {
   int nr = 1;
-  
-  for(int i = 0; i < 100; i++)
-  {
-    
-  }
-
+  int nr2 = 2;
 }
 
 //End of ze very important program
